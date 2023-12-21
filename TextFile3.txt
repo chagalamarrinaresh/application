@@ -1,2 +1,4 @@
 This is a new feature file
+let make a change 123446775
+This is for squash merge
 let's make a changegi
