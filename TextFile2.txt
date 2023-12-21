@@ -1,2 +1,2 @@
 This is textfile2
-what will happen if we git statusmake a change
+what will happen if we make a change
